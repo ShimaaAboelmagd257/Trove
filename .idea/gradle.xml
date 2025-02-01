@@ -11,18 +11,21 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/core-data" />
-            <option value="$PROJECT_DIR$/core-ui" />
-            <option value="$PROJECT_DIR$/feature-cart" />
-            <option value="$PROJECT_DIR$/feature-category" />
-            <option value="$PROJECT_DIR$/feature-notification" />
-            <option value="$PROJECT_DIR$/feature-order" />
-            <option value="$PROJECT_DIR$/feature-payment" />
-            <option value="$PROJECT_DIR$/feature-product" />
-            <option value="$PROJECT_DIR$/feature-profile" />
-            <option value="$PROJECT_DIR$/feature-search" />
-            <option value="$PROJECT_DIR$/feature-shipping" />
-            <option value="$PROJECT_DIR$/feature-watshlist" />
+            <option value="$PROJECT_DIR$/core/core-data" />
+            <option value="$PROJECT_DIR$/core/core-database" />
+            <option value="$PROJECT_DIR$/core/core-network" />
+            <option value="$PROJECT_DIR$/core/core-repository" />
+            <option value="$PROJECT_DIR$/core/core-ui" />
+            <option value="$PROJECT_DIR$/feature/feature-cart" />
+            <option value="$PROJECT_DIR$/feature/feature-category" />
+            <option value="$PROJECT_DIR$/feature/feature-notification" />
+            <option value="$PROJECT_DIR$/feature/feature-order" />
+            <option value="$PROJECT_DIR$/feature/feature-payment" />
+            <option value="$PROJECT_DIR$/feature/feature-product" />
+            <option value="$PROJECT_DIR$/feature/feature-profile" />
+            <option value="$PROJECT_DIR$/feature/feature-search" />
+            <option value="$PROJECT_DIR$/feature/feature-shipping" />
+            <option value="$PROJECT_DIR$/feature/feature-watchlist" />
           </set>
         </option>
       </GradleProjectSettings>

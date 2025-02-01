@@ -26,3 +26,23 @@ include ':feature-notification'
 include ':feature-payment'
 include ':core-data'
 include ':core-ui'
+include ':core-database'
+include ':core-network'
+include ':core-repository'
+
+project(":feature-profile").projectDir = file("feature/feature-profile")
+project(":feature-product").projectDir = file("feature/feature-product")
+project(":feature-category").projectDir = file("feature/feature-category")
+project(":feature-search").projectDir = file("feature/feature-search")
+project(":feature-cart").projectDir = file("feature/feature-cart")
+project(":feature-payment").projectDir = file("feature/feature-payment")
+project(":feature-shipping").projectDir = file("feature/feature-shipping")
+project(":feature-watshlist").projectDir = file("feature/feature-watchlist")
+project(":feature-order").projectDir = file("feature/feature-order")
+project(":feature-notification").projectDir = file("feature/feature-notification")
+project(":core-data").projectDir = file("core/core-data")
+project(":core-ui").projectDir = file("core/core-ui")
+project(":core-database").projectDir = file("core/core-database")
+project(":core-network").projectDir = file("core/core-network")
+project(":core-repository").projectDir = file("core/core-repository")
+

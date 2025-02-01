@@ -1,12 +1,10 @@
 plugins {
     id 'com.android.library'
     id 'org.jetbrains.kotlin.android'
-    id("kotlin-parcelize")
-
 }
 
 android {
-    namespace 'com.trove.core.data'
+    namespace 'com.trove.core.database'
     compileSdk 32
 
     defaultConfig {

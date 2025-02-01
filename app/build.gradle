@@ -57,6 +57,9 @@ android {
 
 dependencies {
 
+    //modules
+    implementation project(":core-data")
+
     def compose_ui_version = "1.7.6"
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.3.1'
