@@ -14,3 +14,15 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Trove"
 include ':app'
+include ':feature-search'
+include ':feature-profile'
+include ':feature-product'
+include ':feature-category'
+include ':feature-watshlist'
+include ':feature-cart'
+include ':feature-order'
+include ':feature-shipping'
+include ':feature-notification'
+include ':feature-payment'
+include ':core-data'
+include ':core-ui'
